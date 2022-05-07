@@ -95,6 +95,7 @@ No prerequisite is required.
    ```sh
    git clone https://github.com/bugramurat/sports-card-game.git
    ```
+2. Make sure `Test.java` is main class
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
