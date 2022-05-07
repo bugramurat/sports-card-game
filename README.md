@@ -17,7 +17,7 @@
 <h3 align="center">Sports Card Game</h3>
 
   <p align="center">
-    Simple Sports Card Game in Java
+    Simple sports card game in Java
     <br />
     <a href="https://github.com/bugramurat/sports-card-game"><strong>Explore the docs »</strong></a>
     <br />
