@@ -160,7 +160,7 @@ Project Link: [https://github.com/bugramurat/sports-card-game](https://github.co
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Java GUI Tutorial](https://youtu.be/5o3fMLPY7qY)
+* [Java GUI tutorial](https://youtu.be/5o3fMLPY7qY)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
